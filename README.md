@@ -54,6 +54,11 @@ Hello! Here are my Chinese restaurant suggestions for 5 people, for 2023-02-26 a
 1. [S3](https://aws.amazon.com/s3/) - Used to host static frontend
 2. [API Gateway](https://aws.amazon.com/api-gateway/) - For creating, monitoring, and securing REST APIs at any scale.
 3. [Lambda](https://aws.amazon.com/lambda/) - Function as a Service,  event-driven, and serverless computing platform. Acted as backend to run code without provisioning or managing servers.
-
+4. [Lex](https://aws.amazon.com/lex/) - Amazon platform to build conversational bots.
+5. [Simple Queue Service](https://aws.amazon.com/sqs/) - Message queue for communication between microservices.
+6. [Simple Email Service](https://aws.amazon.com/ses/) - A cost-effective, flexible, and scalable email service.
+7. [DynamoDB](https://aws.amazon.com/dynamodb/) - NoSQL database.
+8. [Yelp API](https://www.yelp.com/fusion) - Scrape restaurant information.
+9. [CloudWatch](https://aws.amazon.com/cloudwatch/) - Observe and monitor resources and applications on AWS.
 
 
