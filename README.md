@@ -50,7 +50,10 @@ User will get an email with the following content:<br>
 Hello! Here are my Chinese restaurant suggestions for 5 people, for 2023-02-26 at 18:00 : 1. Friendly Restaurant located at 1205 40th Ave, 2. Mala Project located at 245 East 53rd St, 3. Shu Han Ju located at 465 6th Ave. Enjoy your meal!<br>
 
 
-
+### Built With
+1. [S3](https://aws.amazon.com/s3/) - Used to host static frontend
+2. [API Gateway](https://aws.amazon.com/api-gateway/) - For creating, monitoring, and securing REST APIs at any scale.
+3. [Lambda](https://aws.amazon.com/lambda/) - Function as a Service,  event-driven, and serverless computing platform. Acted as backend to run code without provisioning or managing servers.
 
 
 
