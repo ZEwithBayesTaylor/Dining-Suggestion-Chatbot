@@ -1,3 +1,3 @@
-# Project Name: Dining Suggestion Chatbot
+# Dining Suggestion Chatbot
 
 ## Project Description:
