@@ -6,7 +6,7 @@ In this Project, I developed a serverless web chatbot with event-driven microser
 Based on the conversation between chatbot and customer, chatbot collects the information from customers like location, cuisine, number of people, email address. Then, chatbot will search through ElasticSearch (OpenSearch Service) to get suggestions of restaurant IDs with their perference, especially cuisine. Moreover, the web application will also query the DynamoDB table with these restaurant IDs to get more information about the restaurants and send email to the customers.
 
 ### Example Dialogue
-Chatbot: Hi there, I'm your personal Concierge. How can I help?
+Chatbot: Hi there, I'm your personal Concierge. How can I help? <br>
 User: Hello.
 Chatbot: Hello there! What can I help you with?
 User: I need some dining suggestions.
