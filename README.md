@@ -1,3 +1,3 @@
 # Dining Suggestion Chatbot
 
-## Project Description:
+In this Project, I developed a serverless web chatbot
