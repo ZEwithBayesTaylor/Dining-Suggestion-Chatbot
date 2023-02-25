@@ -9,22 +9,39 @@ Based on the conversation between chatbot and customer, chatbot collects the inf
 Chatbot: Hi there, I'm your personal Concierge. How can I help? <br>
 <br>
 User: Hello.<br>
+<br>
 Chatbot: Hello there! What can I help you with?<br>
+<br>
 User: I need some dining suggestions.<br>
+<br>
 Chatbot: Great. I can help you with that. What city or city area are you looking to dine in?<br>
+<br>
 User: New York.<br>
+<br>
 Chatbot: What cuisine would you like to try?<br>
+<br>
 User: Chinese.<br>
+<br>
 Chatbot: How many people are there in your party?<br>
+<br>
 User: 5.<br>
+<br>
 Chatbot: What date would you like to dine in?<br>
+<br>
 User: Tomorrow.<br>
+<br>
 Chatbot: What time?<br>
+<br>
 User: 6pm.<br>
+<br>
 Chatbot: What is your email address?<br>
+<br>
 User: ezhao19990516@gmail.com<br>
+<br>
 Chatbot: I have received your request and will be sending the suggestions shortly. Have a Great Day !!<br>
+<br>
 User: Thank you. <br>
+<br>
 Chatbot: You are welcome.<br>
 
 (a few minutes later)<br>
