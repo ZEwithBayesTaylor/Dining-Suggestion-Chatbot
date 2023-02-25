@@ -62,4 +62,4 @@ Hello! Here are my Chinese restaurant suggestions for 5 people, for 2023-02-26 a
 9. [CloudWatch](https://aws.amazon.com/cloudwatch/) - Observe and monitor resources and applications on AWS.
 
 ### Architecture
-[image]
+![image](Architecture.png)
