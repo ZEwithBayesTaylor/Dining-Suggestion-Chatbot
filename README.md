@@ -7,29 +7,29 @@ Based on the conversation between chatbot and customer, chatbot collects the inf
 
 ### Example Dialogue
 Chatbot: Hi there, I'm your personal Concierge. How can I help? <br>
-User: Hello.
-Chatbot: Hello there! What can I help you with?
-User: I need some dining suggestions.
-Chatbot: Great. I can help you with that. What city or city area are you looking to dine in?
-User: New York.
-Chatbot: What cuisine would you like to try?
-User: Chinese.
-Chatbot: How many people are there in your party?
-User: 5.
-Chatbot: What date would you like to dine in?
-User: Tomorrow.
-Chatbot: What time?
-User: 6pm.
-Chatbot: What is your email address?
-User: ezhao19990516@gmail.com
-Chatbot: I have received your request and will be sending the suggestions shortly. Have a Great Day !!
-User: Thank you
-Chatbot: You are welcome.
+User: Hello.<br>
+Chatbot: Hello there! What can I help you with?<br>
+User: I need some dining suggestions.<br>
+Chatbot: Great. I can help you with that. What city or city area are you looking to dine in?<br>
+User: New York.<br>
+Chatbot: What cuisine would you like to try?<br>
+User: Chinese.<br>
+Chatbot: How many people are there in your party?<br>
+User: 5.<br>
+Chatbot: What date would you like to dine in?<br>
+User: Tomorrow.<br>
+Chatbot: What time?<br>
+User: 6pm.<br>
+Chatbot: What is your email address?<br>
+User: ezhao19990516@gmail.com<br>
+Chatbot: I have received your request and will be sending the suggestions shortly. Have a Great Day !!<br>
+User: Thank you. <br>
+Chatbot: You are welcome.<br>
 
-(a few minutes later)
+(a few minutes later)<br>
 
-User will get an email with the following content:
-Hello! Here are my Chinese restaurant suggestions for 5 people, for 2023-02-26 at 18:00 : 1. Friendly Restaurant located at 1205 40th Ave, 2. Mala Project located at 245 East 53rd St, 3. Shu Han Ju located at 465 6th Ave. Enjoy your meal!
+User will get an email with the following content:<br>
+Hello! Here are my Chinese restaurant suggestions for 5 people, for 2023-02-26 at 18:00 : 1. Friendly Restaurant located at 1205 40th Ave, 2. Mala Project located at 245 East 53rd St, 3. Shu Han Ju located at 465 6th Ave. Enjoy your meal!<br>
 
 
 
