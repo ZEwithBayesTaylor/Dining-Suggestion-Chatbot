@@ -7,6 +7,7 @@ Based on the conversation between chatbot and customer, chatbot collects the inf
 
 ### Example Dialogue
 Chatbot: Hi there, I'm your personal Concierge. How can I help? <br>
+<br>
 User: Hello.<br>
 Chatbot: Hello there! What can I help you with?<br>
 User: I need some dining suggestions.<br>
