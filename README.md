@@ -1,1 +1,1 @@
-# COMSE-6998
+# Dining Suggestion Chatbot
