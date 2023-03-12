@@ -36,7 +36,7 @@ User: 6pm.<br>
 
 Chatbot: What is your email address?<br>
 
-User: ezhao19990516@gmail.com<br>
+User: YourName123@gmail.com<br>
 
 Chatbot: I have received your request and will be sending the suggestions shortly. Have a Great Day !!<br>
 
